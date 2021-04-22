@@ -1,7 +1,7 @@
 # Training Materials for Research Assistants 
 
 
-## Part 1: For Undergraduates/Masters
+## Part 1: For Undergraduates or Masters
 
 ### 1. Basic Concepts in GIS and Spatial Data
  
