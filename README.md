@@ -50,7 +50,7 @@ weeks) [ [TrainingWorkshop] ]
  [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
    [TrainingWorkshop]: <https://carpentries-incubator.github.io/geospatial-python/>
-   [GeoAIExercises]: <https://drive.google.com/drive/u/1/folders/1SNt_WWdDyUcQBwTa4WX4lrZznWF7_ztS>
+   [GeoAIExercises]: <https://drive.google.com/drive/u/0/folders/1DehyLqaBUhTIlUDXJlyFrvbtvO_T8EAm>
    [ArcGIS Online]: <https://learn-arcgis-learngis.hub.arcgis.com/>
    [ArcGIS Notebook]: <https://www.esri.com/en-us/arcgis/products/arcgis-notebooks/overview>
    [Leaflet]: <https://leafletjs.com/>
