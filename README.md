@@ -5,30 +5,30 @@
 ### 1. Basic Concepts in GIS and Spatial Data
  
 - Introduction to Geospatial Raster and Vector Data with Python (2
-weeks) [[TrainingWorkshop]]
--  Conduct the exercises in Python Jupyter Notebook [[GeoAIExercises]]
--  [[ArcGIS Notebook]]
--  [[ArcGIS Online]]
--  [[Leaflet]]
--  [[OpenLayers]]
+weeks) [ [TrainingWorkshop] ]
+-  Conduct the exercises in Python Jupyter Notebook [ [GeoAIExercises] ]
+-  [ [ArcGIS Notebook] ]
+-  [ [ArcGIS Online] ]
+-  [ [Leaflet] ]
+-  [ [OpenLayers] ]
 
  ### 2. GIS Software: QGIS (Open Source) and ArcGIS (Commercial)
- - [[QGIS Workshop Tutorial]]
- - [[ArcGIS Tutorial]]
+ - [ [QGIS Workshop Tutorial] ]
+ - [ [ArcGIS Tutorial] ]
 
  ### 3.	Learn Basic Tensorflow Tutorial Examples
- - [[Tensorflow Tutorial]]
+ - [ [Tensorflow Tutorial] ]
  
  ### 4. For those who want to explore deeper, go to our "Training Materials for PhDs"
- - Learn from existing Project Codes from our group[ [Link will be Provided Soon]]
- - Learn from the paper reading list [[Link will be Provided Soon]]
+ - Learn from existing Project Codes from our group[ [Link will be Provided Soon] ]
+ - Learn from the paper reading list [ [Link will be Provided Soon] ]
 
 
  ## Training Materials for Undergraduate/Masters Research Assistant
  
  ### 1.	General Data Mining, Machine Learning, and Deep Learning
-  - [[Stanford CS 229]]: Introduction to Machine Learning (including project assignments)
-  - [[Stanford CS 230]]: Deep Learning (including project assignments)
+  - [ [Stanford CS 229] ]: Introduction to Machine Learning (including project assignments)
+  - [ [Stanford CS 230] ]: Deep Learning (including project assignments)
 
 ### 2.	Spatial and Spatiotemporal Data Mining Reading (Survey Papers by time order)
  - Shekhar S, Evans MR, Kang JM, Mohan P. Identifying patterns in spatial information: A survey of methods. Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery. 2011 May;1(3):193-214.
@@ -38,7 +38,23 @@ weeks) [[TrainingWorkshop]]
 - Wang S, Cao J, Yu P. Deep learning for spatio-temporal data mining: A survey. IEEE Transactions on Knowledge and Data Engineering. 2020 Sep 22.
 
 ### 3.	Deep Learning Milestone Paper Reading List
-- [[Link will be Provided Soon]] 
+- [ [Link will be Provided Soon] ] 
+
+
+ [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
+
+   [TrainingWorkshop]: <https://carpentries-incubator.github.io/geospatial-python/>
+   [GeoAIExercises]: <https://drive.google.com/drive/u/1/folders/1SNt_WWdDyUcQBwTa4WX4lrZznWF7_ztS>
+   [ArcGIS Online]: <https://learn-arcgis-learngis.hub.arcgis.com/>
+   [ArcGIS Notebook]: <https://www.esri.com/en-us/arcgis/products/arcgis-notebooks/overview>
+   [Leaflet]: <https://leafletjs.com/>
+   [OpenLayers]: <https://openlayers.org/en/latest/doc/tutorials/>
+   [QGIS Workshop Tutorial]: <https://gis.harvard.edu/qgis-workshop-and-video-tutorials-0>
+   [ArcGIS Tutorial]: <https://www.esri.com/training/catalog/59c40f6fde53ed5705e39c5a/introduction-to-gis-using-arcgis/>
+   [Tensorflow Tutorial]: <https://www.tensorflow.org/tutorials>
+   [Link will be Provided Soon]: <https://github.com/spatialdatasciencegroup/RATraining>
+   [Stanford CS 229]: <https://see.stanford.edu/Course/CS229>
+   [Stanford CS 230]: <https://cs230.stanford.edu/lecture/>
 
 <!--
 ### 4.	Projects and Codes from Our Group
@@ -61,18 +77,3 @@ o	TBD 2018 Version
 •	Street View Image Classification  (Project Site)
 o	ACM TDS Version
 ->
- [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
-
-   [TrainingWorkshop]: <https://carpentries-incubator.github.io/geospatial-python/>
-   [GeoAIExercises]: <https://drive.google.com/drive/u/1/folders/1SNt_WWdDyUcQBwTa4WX4lrZznWF7_ztS>
-   [ArcGIS Online]: <https://learn-arcgis-learngis.hub.arcgis.com/>
-   [ArcGIS Notebook]: <https://www.esri.com/en-us/arcgis/products/arcgis-notebooks/overview>
-   [Leaflet]: <https://leafletjs.com/>
-   [OpenLayers]: <https://openlayers.org/en/latest/doc/tutorials/>
-   [QGIS Workshop Tutorial]: <https://gis.harvard.edu/qgis-workshop-and-video-tutorials-0>
-   [ArcGIS Tutorial]: <https://www.esri.com/training/catalog/59c40f6fde53ed5705e39c5a/introduction-to-gis-using-arcgis/>
-   [Tensorflow Tutorial]: <https://www.tensorflow.org/tutorials>
-   [Link will be Provided Soon]: <https://github.com/spatialdatasciencegroup/RATraining>
-   [Stanford CS 229]: <https://see.stanford.edu/Course/CS229>
-   [Stanford CS 230]: <https://cs230.stanford.edu/lecture/>
-
