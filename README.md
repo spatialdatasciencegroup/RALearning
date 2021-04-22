@@ -20,10 +20,4 @@ weeks) [TrainingWorkshop]
    [ArcGIS Notebook]: <https://www.esri.com/en-us/arcgis/products/arcgis-notebooks/overview>
    [Leaflet]: <https://leafletjs.com/>
    [OpenLayers]: <https://openlayers.org/en/latest/doc/tutorials/>
-   [QGIS Workshop Tutorial]: <https://gis.harvard.edu/qgis-workshop-and-video-tutorials-0>
-   [ArcGIS Tutorial]: <https://www.esri.com/training/catalog/59c40f6fde53ed5705e39c5a/introduction-to-gis-using-arcgis/>
-   [Tensorflow Tutorial] <https://www.tensorflow.org/tutorials>
-   [Link will be Provided Soon]: <>
-   [Stanford CS 229]: <https://see.stanford.edu/Course/CS229>
-   [Stanford CS 230]: <https://cs230.stanford.edu/lecture/>
-   [Link to the list will be provided soon]: <>
+  
