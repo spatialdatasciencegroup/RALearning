@@ -1,6 +1,5 @@
 # Training Materials for Research Assistants 
 
-</br>
 
 ## Part 1: For Undergraduates/Masters
 
