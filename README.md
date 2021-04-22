@@ -1,5 +1,8 @@
 # Training Materials for Research Assistants 
 
+</br>
+</br>
+
 ## Part 1: For Undergraduates/Masters
 
 ### 1. Basic Concepts in GIS and Spatial Data
@@ -24,6 +27,8 @@ weeks) [ [TrainingWorkshop] ]
  - Learn from the paper reading list [ [Link will be Provided Soon] ]
 
 
+</br>
+</br>
 
  ## Part 2: For PhDs or Masters with Thesis
  
