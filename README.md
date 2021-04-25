@@ -44,7 +44,11 @@ weeks) [ [TrainingWorkshop] ]
 - [ [Link will be Provided Soon] ] 
 
 ### 4.	Read Our Papers and Codes
-- [ [Link will be Provided Soon] ] 
+- Hidden Markov Tree [ [Link will be Provided Soon] ] 
+- Weakly Supervised Learning with Geometric Annotation Errors [ [Link will be Provided Soon] ] 
+- Geometric Deep Learning: Curvanet [ [Link will be Provided Soon] ] 
+- Colocation Mining on GPUs [ [Link will be Provided Soon] ] 
+- Deep Learning for Street View Imagery [ [Link will be Provided Soon] ] 
 
 
  [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
