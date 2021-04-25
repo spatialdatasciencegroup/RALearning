@@ -7,7 +7,7 @@
  
 - Introduction to Geospatial Raster and Vector Data with Python (2
 weeks) [ [TrainingWorkshop] ]
--  Conduct the exercises in Python Jupyter Notebook [ [GeoAIExercises] ]
+-  Conduct the exercises in Python Jupyter Notebook [ [GeoAIExercises in Google Drive] ]
 -  [ [ArcGIS Notebook] ]
 -  [ [ArcGIS Online] ]
 -  [ [Leaflet] ]
@@ -20,7 +20,7 @@ weeks) [ [TrainingWorkshop] ]
  ### 3.	Learn Basic Tensorflow Tutorial Examples
  - [ [Tensorflow Tutorial] ]
  
- ### 4. For those who want to explore deeper, go to our "Training Materials for PhDs"
+ ### 4. For those who want to explore deeper, go to "Part 2"
  - Learn from existing Project Codes from our group[ [Link will be Provided Soon] ]
  - Learn from the paper reading list [ [Link will be Provided Soon] ]
 
