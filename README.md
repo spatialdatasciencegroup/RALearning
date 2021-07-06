@@ -21,8 +21,7 @@ weeks) [ [TrainingWorkshop] ]
  - [ [Tensorflow Tutorial] ]
  
  ### 4. For those who want to explore deeper, go to "Part 2"
- - Learn from existing Project Codes from our group[ [Link will be Provided Soon] ]
- - Learn from the paper reading list [ [Link will be Provided Soon] ]
+
 
 
 </br>
