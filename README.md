@@ -41,7 +41,7 @@ weeks) [ [TrainingWorkshop] ]
 - Wang S, Cao J, Yu P. Deep learning for spatio-temporal data mining: A survey. IEEE Transactions on Knowledge and Data Engineering. 2020 Sep 22.
 
 ### 3.	Deep Learning Milestone Paper Reading List
-- Deep Learning Paper Reading Roadmap [ [Roadmap] ] 
+- Deep Learning Paper Reading Roadmap [ [Roadmap Github] ] 
 
 ### 4.	Read Our Papers and Codes
 - Hidden Markov Tree [ [Link will be Provided Soon] ] 
@@ -65,7 +65,7 @@ weeks) [ [TrainingWorkshop] ]
    [Link will be Provided Soon]: <https://github.com/spatialdatasciencegroup/RATraining>
    [Stanford CS 229]: <https://see.stanford.edu/Course/CS229>
    [Stanford CS 230]: <https://cs230.stanford.edu/lecture/>
-   [Roadmap]: <https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap>
+   [Roadmap Github]: <https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap>
 
 <!--
 ### 4.	Projects and Codes from Our Group
