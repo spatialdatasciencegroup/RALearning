@@ -36,8 +36,9 @@ weeks) [ [TrainingWorkshop] ]
 - Jiang Z. A survey on spatial prediction methods. IEEE Transactions on Knowledge and Data Engineering. 2018 Aug 23;31(9):1645-64.
 - Wang S, Cao J, Yu P. Deep learning for spatio-temporal data mining: A survey. IEEE Transactions on Knowledge and Data Engineering. 2020 Sep 22.
 
-### 3.	Deep Learning Milestone Paper Reading List
-- Deep Learning Paper Reading Roadmap [ [Roadmap Github] ] 
+### 3.	Deep Learning Paper Reading List
+- Deep Learning Paper Reading Roadmap (Highly Cited Milestone Papers) [ [Roadmap Github] ] 
+- Recent State of The Art Papers [ [SOTA] ]
 
 ### 4.	Read Our Papers and Codes
 - Hidden Markov Tree [ [Link will be Provided Soon] ] 
@@ -62,6 +63,7 @@ weeks) [ [TrainingWorkshop] ]
    [Stanford CS 229]: <https://see.stanford.edu/Course/CS229>
    [Stanford CS 230]: <https://cs230.stanford.edu/lecture/>
    [Roadmap Github]: <https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap>
+   [SOTA]: <https://paperswithcode.com/sota>
 
 <!--
 ### 4.	Projects and Codes from Our Group
