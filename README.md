@@ -8,10 +8,7 @@
 - Introduction to Geospatial Raster and Vector Data with Python (2
 weeks) [ [TrainingWorkshop] ]
 -  Conduct the exercises in Python Jupyter Notebook [ [Python Exercises in Google Drive] ]
--  [ [ArcGIS Notebook] ]
--  [ [ArcGIS Online] ]
--  [ [Leaflet] ]
--  [ [OpenLayers] ]
+-  Optional: [ [ArcGIS Notebook] ], [ [ArcGIS Online] ], [ [Leaflet] ], [ [OpenLayers] ]
 
  ### 2. GIS Software: QGIS (Open Source) and ArcGIS (Commercial)
  - [ [QGIS Workshop Tutorial] ]
