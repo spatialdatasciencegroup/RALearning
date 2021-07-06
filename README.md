@@ -33,7 +33,7 @@ weeks) [ [TrainingWorkshop] ]
   - [ [Stanford CS 229] ]: Introduction to Machine Learning (including project assignments)
   - [ [Stanford CS 230] ]: Deep Learning (including project assignments)
 
-### 2.	Spatial and Spatiotemporal Data Mining Reading (Survey Papers by time order)
+### 2.	Spatial and Spatiotemporal Data (Survey Papers by time order)
  - Shekhar S, Evans MR, Kang JM, Mohan P. Identifying patterns in spatial information: A survey of methods. Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery. 2011 May;1(3):193-214.
 -	Shekhar S, Jiang Z, Ali RY, Eftelioglu E, Tang X, Gunturi V, Zhou X. Spatiotemporal data mining: A computational perspective. ISPRS International Journal of Geo-Information. 2015 Dec;4(4):2306-38.
 - 	Atluri G, Karpatne A, Kumar V. Spatio-temporal data mining: A survey of problems and methods. ACM Computing Surveys (CSUR). 2018 Aug 22;51(4):1-41.
@@ -41,7 +41,7 @@ weeks) [ [TrainingWorkshop] ]
 - Wang S, Cao J, Yu P. Deep learning for spatio-temporal data mining: A survey. IEEE Transactions on Knowledge and Data Engineering. 2020 Sep 22.
 
 ### 3.	Deep Learning Milestone Paper Reading List
-- [ [Link will be Provided Soon] ] 
+- Deep Learning Paper Reading Roadmap [ [Roadmap] ] 
 
 ### 4.	Read Our Papers and Codes
 - Hidden Markov Tree [ [Link will be Provided Soon] ] 
@@ -65,6 +65,7 @@ weeks) [ [TrainingWorkshop] ]
    [Link will be Provided Soon]: <https://github.com/spatialdatasciencegroup/RATraining>
    [Stanford CS 229]: <https://see.stanford.edu/Course/CS229>
    [Stanford CS 230]: <https://cs230.stanford.edu/lecture/>
+   [Roadmap]: <https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap>
 
 <!--
 ### 4.	Projects and Codes from Our Group
