@@ -6,7 +6,7 @@
 ### 1. Basic Concepts in GIS and Spatial Data
  
 - Introduction to Geospatial Raster and Vector Data with Python (2
-weeks) [ [TrainingWorkshop] ]
+weeks) [TrainingWorkshop]
 -  Conduct the exercises in Python Jupyter Notebook [ [Python Exercises in Google Drive] ]
 -  Optional: [ [ArcGIS Notebook] ], [ [ArcGIS Online] ], [ [Leaflet] ], [ [OpenLayers] ]
 
