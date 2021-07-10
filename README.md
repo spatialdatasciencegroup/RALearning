@@ -38,7 +38,7 @@ weeks) [TrainingWorkshop]
 
 ### 3.	Deep Learning Paper Reading List
 - Deep Learning Paper Reading Roadmap (Highly Cited Milestone Papers) [Roadmap Github] 
-- Recent State of The Art Papers [SOTA]
+- Follow Recent State of The Art Papers [SOTA]
 
 ### 4.	Read Our Papers and Codes
 - Hidden Markov Tree [Project Website](https://spatialdatasciencegroup.github.io/HMCT/)
