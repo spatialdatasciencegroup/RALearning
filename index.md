@@ -20,8 +20,6 @@ weeks) [TrainingWorkshop]
 
 
 
-</br>
-
  ## Part 2: For PhDs or Masters with Thesis
  
  ### 1.	General Data Mining, Machine Learning, and Deep Learning
