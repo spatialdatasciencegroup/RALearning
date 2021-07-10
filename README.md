@@ -41,7 +41,7 @@ weeks) [ [TrainingWorkshop] ]
 - Recent State of The Art Papers [ [SOTA] ]
 
 ### 4.	Read Our Papers and Codes
-- Hidden Markov Tree [ [Link will be Provided Soon] ] 
+- Hidden Markov Tree [Project Website](https://spatialdatasciencegroup.github.io/HMCT/)
 - Weakly Supervised Learning with Geometric Annotation Errors [ [Link will be Provided Soon] ] 
 - Geometric Deep Learning: Curvanet [ [Link will be Provided Soon] ] 
 - Colocation Mining on GPUs [ [Link will be Provided Soon] ] 
