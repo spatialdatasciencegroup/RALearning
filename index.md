@@ -10,11 +10,11 @@ weeks) [TrainingWorkshop]
 -  Optional: [ArcGIS Notebook], [ArcGIS Online], [Leaflet], [OpenLayers]
 
 ### 2. GIS Software: QGIS (Open Source) and ArcGIS (Commercial)
- - [QGIS Workshop Tutorial]
- - [ArcGIS Tutorial]
+- [QGIS Workshop Tutorial]
+- [ArcGIS Tutorial]
 
 ### 3.	Learn Basic Tensorflow Tutorial Examples
- - [Tensorflow Tutorial]
+- [Tensorflow Tutorial]
  
 ### 4. For those who want to explore deeper, go to "Part 2"
 
@@ -23,11 +23,11 @@ weeks) [TrainingWorkshop]
 ## Part 2: For PhDs or Masters with Thesis
  
 ### 1.	General Data Mining, Machine Learning, and Deep Learning
-  - [Stanford CS 229]: Introduction to Machine Learning (including project assignments)
-  - [Stanford CS 230]: Deep Learning (including project assignments)
+- [Stanford CS 229]: Introduction to Machine Learning (including project assignments)
+- [Stanford CS 230]: Deep Learning (including project assignments)
 
 ### 2.	Spatial and Spatiotemporal Data (Survey Papers by time order)
- - Shekhar S, Evans MR, Kang JM, Mohan P. Identifying patterns in spatial information: A survey of methods. Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery. 2011 May;1(3):193-214.
+- Shekhar S, Evans MR, Kang JM, Mohan P. Identifying patterns in spatial information: A survey of methods. Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery. 2011 May;1(3):193-214.
 -	Shekhar S, Jiang Z, Ali RY, Eftelioglu E, Tang X, Gunturi V, Zhou X. Spatiotemporal data mining: A computational perspective. ISPRS International Journal of Geo-Information. 2015 Dec;4(4):2306-38.
 - 	Atluri G, Karpatne A, Kumar V. Spatio-temporal data mining: A survey of problems and methods. ACM Computing Surveys (CSUR). 2018 Aug 22;51(4):1-41.
 - Jiang Z. A survey on spatial prediction methods. IEEE Transactions on Knowledge and Data Engineering. 2018 Aug 23;31(9):1645-64.
