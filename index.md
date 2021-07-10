@@ -6,8 +6,8 @@
  
 - Introduction to Geospatial Raster and Vector Data with Python (2
 weeks) [TrainingWorkshop]
--  Conduct the exercises in Python Jupyter Notebook [ [Python Exercises in Google Drive] ]
--  Optional: [ArcGIS Notebook], [ArcGIS Online], [Leaflet], [OpenLayers]
+- Conduct the exercises in Python Jupyter Notebook [ [Python Exercises in Google Drive] ]
+- Optional: [ArcGIS Notebook], [ArcGIS Online], [Leaflet], [OpenLayers]
 
 ### 2. GIS Software: QGIS (Open Source) and ArcGIS (Commercial)
 - [QGIS Workshop Tutorial]
@@ -45,41 +45,18 @@ weeks) [TrainingWorkshop]
 - Deep Learning for Street View Imagery [Link will be Provided Soon] 
 
 
- [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
+[TrainingWorkshop]: <https://carpentries-incubator.github.io/geospatial-python/>
+[Python Exercises in Google Drive]: <https://drive.google.com/drive/u/0/folders/1DehyLqaBUhTIlUDXJlyFrvbtvO_T8EAm>
+[ArcGIS Online]: <https://learn-arcgis-learngis.hub.arcgis.com/>
+[ArcGIS Notebook]: <https://www.esri.com/en-us/arcgis/products/arcgis-notebooks/overview>
+[Leaflet]: <https://leafletjs.com/>
+[OpenLayers]: <https://openlayers.org/en/latest/doc/tutorials/>
+[QGIS Workshop Tutorial]: <https://gis.harvard.edu/qgis-workshop-and-video-tutorials-0>
+[ArcGIS Tutorial]: <https://www.esri.com/training/catalog/59c40f6fde53ed5705e39c5a/introduction-to-gis-using-arcgis/>
+[Tensorflow Tutorial]: <https://www.tensorflow.org/tutorials>
+[Link will be Provided Soon]: <https://github.com/spatialdatasciencegroup/RATraining>
+[Stanford CS 229]: <https://see.stanford.edu/Course/CS229>
+[Stanford CS 230]: <https://cs230.stanford.edu/lecture/>
+[Roadmap Github]: <https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap>
+[SOTA]: <https://paperswithcode.com/sota>
 
-   [TrainingWorkshop]: <https://carpentries-incubator.github.io/geospatial-python/>
-   [Python Exercises in Google Drive]: <https://drive.google.com/drive/u/0/folders/1DehyLqaBUhTIlUDXJlyFrvbtvO_T8EAm>
-   [ArcGIS Online]: <https://learn-arcgis-learngis.hub.arcgis.com/>
-   [ArcGIS Notebook]: <https://www.esri.com/en-us/arcgis/products/arcgis-notebooks/overview>
-   [Leaflet]: <https://leafletjs.com/>
-   [OpenLayers]: <https://openlayers.org/en/latest/doc/tutorials/>
-   [QGIS Workshop Tutorial]: <https://gis.harvard.edu/qgis-workshop-and-video-tutorials-0>
-   [ArcGIS Tutorial]: <https://www.esri.com/training/catalog/59c40f6fde53ed5705e39c5a/introduction-to-gis-using-arcgis/>
-   [Tensorflow Tutorial]: <https://www.tensorflow.org/tutorials>
-   [Link will be Provided Soon]: <https://github.com/spatialdatasciencegroup/RATraining>
-   [Stanford CS 229]: <https://see.stanford.edu/Course/CS229>
-   [Stanford CS 230]: <https://cs230.stanford.edu/lecture/>
-   [Roadmap Github]: <https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap>
-   [SOTA]: <https://paperswithcode.com/sota>
-
-<!--
-### 4.	Projects and Codes from Our Group
-- Hidden Markov Tree Model (Project Site)
-o	Most Updated C++ Codes for HMT (supporting HMT, HMCT, FIST)
-o	Other backup versions: KDD18, KDD19, TKDE19, TKDE20 (for reproducibility)
-o	Python Version: TBD with Jack O'Donohue
-o	ArcGIS Plugin Version:  TBD
-o	ArcGIS Online Version: TBD
-•	Geometric Annotation Errors (Project Site)
-o	SegmentShiftNet: ACM TIST Version 
-o	PointShiftNet: KDD 2021 Version
-o	UncertaintyVectorNet: TBD
-•	Geometric Deep Learning: Curvanet (Project Site)
-o	KDD 2020 Version
-o	Journal Extension Version
-•	Colocation Mining on GPUs (Project Site)
-o	SSTD 2017 Version
-o	TBD 2018 Version 
-•	Street View Image Classification  (Project Site)
-o	ACM TDS Version
-->
