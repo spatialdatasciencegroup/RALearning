@@ -8,14 +8,14 @@
 - Introduction to Geospatial Raster and Vector Data with Python (2
 weeks) [TrainingWorkshop]
 -  Conduct the exercises in Python Jupyter Notebook [ [Python Exercises in Google Drive] ]
--  Optional: [ [ArcGIS Notebook] ], [ [ArcGIS Online] ], [ [Leaflet] ], [ [OpenLayers] ]
+-  Optional: [ArcGIS Notebook], [ArcGIS Online], [Leaflet], [OpenLayers]
 
  ### 2. GIS Software: QGIS (Open Source) and ArcGIS (Commercial)
- - [ [QGIS Workshop Tutorial] ]
- - [ [ArcGIS Tutorial] ]
+ - [QGIS Workshop Tutorial]
+ - [ArcGIS Tutorial]
 
  ### 3.	Learn Basic Tensorflow Tutorial Examples
- - [ [Tensorflow Tutorial] ]
+ - [Tensorflow Tutorial]
  
  ### 4. For those who want to explore deeper, go to "Part 2"
 
@@ -26,8 +26,8 @@ weeks) [TrainingWorkshop]
  ## Part 2: For PhDs or Masters with Thesis
  
  ### 1.	General Data Mining, Machine Learning, and Deep Learning
-  - [ [Stanford CS 229] ]: Introduction to Machine Learning (including project assignments)
-  - [ [Stanford CS 230] ]: Deep Learning (including project assignments)
+  - [Stanford CS 229]: Introduction to Machine Learning (including project assignments)
+  - [Stanford CS 230]: Deep Learning (including project assignments)
 
 ### 2.	Spatial and Spatiotemporal Data (Survey Papers by time order)
  - Shekhar S, Evans MR, Kang JM, Mohan P. Identifying patterns in spatial information: A survey of methods. Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery. 2011 May;1(3):193-214.
@@ -37,15 +37,15 @@ weeks) [TrainingWorkshop]
 - Wang S, Cao J, Yu P. Deep learning for spatio-temporal data mining: A survey. IEEE Transactions on Knowledge and Data Engineering. 2020 Sep 22.
 
 ### 3.	Deep Learning Paper Reading List
-- Deep Learning Paper Reading Roadmap (Highly Cited Milestone Papers) [ [Roadmap Github] ] 
-- Recent State of The Art Papers [ [SOTA] ]
+- Deep Learning Paper Reading Roadmap (Highly Cited Milestone Papers) [Roadmap Github] 
+- Recent State of The Art Papers [SOTA]
 
 ### 4.	Read Our Papers and Codes
 - Hidden Markov Tree [Project Website](https://spatialdatasciencegroup.github.io/HMCT/)
-- Weakly Supervised Learning with Geometric Annotation Errors [ [Link will be Provided Soon] ] 
-- Geometric Deep Learning: Curvanet [ [Link will be Provided Soon] ] 
-- Colocation Mining on GPUs [ [Link will be Provided Soon] ] 
-- Deep Learning for Street View Imagery [ [Link will be Provided Soon] ] 
+- Weakly Supervised Learning with Geometric Annotation Errors [Link will be Provided Soon]
+- Geometric Deep Learning: Curvanet [Link will be Provided Soon] 
+- Colocation Mining on GPUs [Link will be Provided Soon] 
+- Deep Learning for Street View Imagery [Link will be Provided Soon] 
 
 
  [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
