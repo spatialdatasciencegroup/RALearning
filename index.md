@@ -23,8 +23,8 @@ weeks) [TrainingWorkshop]
 ## Part 2: For PhDs or Masters with Thesis
  
 ### 1.	General Data Mining, Machine Learning, and Deep Learning
-- [Stanford CS 229] : Introduction to Machine Learning (including project assignments)
-- [Stanford CS 230] : Deep Learning (including project assignments)
+- [Stanford CS 229](https://see.stanford.edu/Course/CS229): Introduction to Machine Learning (including project assignments)
+- [Stanford CS 230](https://cs230.stanford.edu/lecture/): Deep Learning (including project assignments)
 
 ### 2.	Spatial and Spatiotemporal Data (Survey Papers by time order)
 - Shekhar S, Evans MR, Kang JM, Mohan P. Identifying patterns in spatial information: A survey of methods. Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery. 2011 May;1(3):193-214.
@@ -55,8 +55,6 @@ weeks) [TrainingWorkshop]
 [ArcGIS Tutorial]: <https://www.esri.com/training/catalog/59c40f6fde53ed5705e39c5a/introduction-to-gis-using-arcgis/>
 [Tensorflow Tutorial]: <https://www.tensorflow.org/tutorials>
 [Link will be Provided Soon]: <https://github.com/spatialdatasciencegroup/RATraining>
-[Stanford CS 229]: <https://see.stanford.edu/Course/CS229>
-[Stanford CS 230]: <https://cs230.stanford.edu/lecture/>
 [Roadmap Github]: <https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap>
 [SOTA]: <https://paperswithcode.com/sota>
 
