@@ -9,20 +9,20 @@ weeks) [TrainingWorkshop]
 -  Conduct the exercises in Python Jupyter Notebook [ [Python Exercises in Google Drive] ]
 -  Optional: [ArcGIS Notebook], [ArcGIS Online], [Leaflet], [OpenLayers]
 
- ### 2. GIS Software: QGIS (Open Source) and ArcGIS (Commercial)
+### 2. GIS Software: QGIS (Open Source) and ArcGIS (Commercial)
  - [QGIS Workshop Tutorial]
  - [ArcGIS Tutorial]
 
- ### 3.	Learn Basic Tensorflow Tutorial Examples
+### 3.	Learn Basic Tensorflow Tutorial Examples
  - [Tensorflow Tutorial]
  
- ### 4. For those who want to explore deeper, go to "Part 2"
+### 4. For those who want to explore deeper, go to "Part 2"
 
 
 
- ## Part 2: For PhDs or Masters with Thesis
+## Part 2: For PhDs or Masters with Thesis
  
- ### 1.	General Data Mining, Machine Learning, and Deep Learning
+### 1.	General Data Mining, Machine Learning, and Deep Learning
   - [Stanford CS 229]: Introduction to Machine Learning (including project assignments)
   - [Stanford CS 230]: Deep Learning (including project assignments)
 
