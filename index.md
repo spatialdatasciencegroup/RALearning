@@ -58,3 +58,4 @@ weeks) [TrainingWorkshop]
 [Roadmap Github]: <https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap>
 [SOTA]: <https://paperswithcode.com/sota>
 
+[Link to this page](https://spatialdatasciencegroup.github.io/RATraining/)
