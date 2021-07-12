@@ -1,9 +1,9 @@
-# Training Materials for Research Assistants 
+# **Training Materials for Research Assistants** 
 
 
 
 
-## Part 1: For Undergraduates or Masters
+## **Part 1: For Undergraduates or Masters**
 
 ### 1. Basic Concepts in GIS and Spatial Data
  
@@ -23,7 +23,7 @@ weeks) [TrainingWorkshop]
 
 
 
-## Part 2: For PhDs or Masters with Thesis
+## **Part 2: For PhDs or Masters with Thesis**
  
 ### 1.	General Data Mining, Machine Learning, and Deep Learning
 - [Stanford CS 229]: Introduction to Machine Learning (including project assignments)
