@@ -1,4 +1,4 @@
-# **Training Materials for Research Assistants** 
+# **Learning Materials for Prospective Research Assistants** 
 
 
 
